@@ -74,11 +74,11 @@ class TasksPage extends Component {
 
     return tasksStore.tasks.map(task => (
       <Task
-        key={task.id}
-        id={task.id}
-        title={task.title}
-        description={task.description}
-        status={task.status}
+        key={task.task_id}
+        id={task.task_id}
+        title={task.task_title}
+        description={task.task_description}
+        status={task.task_status}
       />
     ));
   };
