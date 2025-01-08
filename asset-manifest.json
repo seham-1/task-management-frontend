@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://seham-1.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://seham-1.github.io/task-management-frontend/static/js/main.cf47ee39.chunk.js",
-    "main.js.map": "https://seham-1.github.io/task-management-frontend/static/js/main.cf47ee39.chunk.js.map",
+    "main.js": "https://seham-1.github.io/task-management-frontend/static/js/main.3d37b611.chunk.js",
+    "main.js.map": "https://seham-1.github.io/task-management-frontend/static/js/main.3d37b611.chunk.js.map",
     "runtime~main.js": "https://seham-1.github.io/task-management-frontend/static/js/runtime~main.14bee567.js",
     "runtime~main.js.map": "https://seham-1.github.io/task-management-frontend/static/js/runtime~main.14bee567.js.map",
     "static/js/2.d547dce9.chunk.js": "https://seham-1.github.io/task-management-frontend/static/js/2.d547dce9.chunk.js",
     "static/js/2.d547dce9.chunk.js.map": "https://seham-1.github.io/task-management-frontend/static/js/2.d547dce9.chunk.js.map",
     "index.html": "https://seham-1.github.io/task-management-frontend/index.html",
-    "precache-manifest.db9f91b96e09c783cf3e1bf3e80c717f.js": "https://seham-1.github.io/task-management-frontend/precache-manifest.db9f91b96e09c783cf3e1bf3e80c717f.js",
+    "precache-manifest.5c985142023c3cc7f6388c686d3d990b.js": "https://seham-1.github.io/task-management-frontend/precache-manifest.5c985142023c3cc7f6388c686d3d990b.js",
     "service-worker.js": "https://seham-1.github.io/task-management-frontend/service-worker.js",
     "static/css/main.5ac26d30.chunk.css.map": "https://seham-1.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }

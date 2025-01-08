@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51e6fafd5cd6f192e099b22a27bd49c9",
+    "revision": "42c2c2eb9d5a4bf6a12afb1d9b33dcde",
     "url": "https://seham-1.github.io/task-management-frontend/index.html"
   },
   {
-    "revision": "780fe6ca14880450d023",
+    "revision": "4e8df474719df06c3281",
     "url": "https://seham-1.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://seham-1.github.io/task-management-frontend/static/js/2.d547dce9.chunk.js"
   },
   {
-    "revision": "780fe6ca14880450d023",
-    "url": "https://seham-1.github.io/task-management-frontend/static/js/main.cf47ee39.chunk.js"
+    "revision": "4e8df474719df06c3281",
+    "url": "https://seham-1.github.io/task-management-frontend/static/js/main.3d37b611.chunk.js"
   },
   {
     "revision": "b47675ec55870f3b4851",
